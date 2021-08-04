@@ -8,7 +8,6 @@ django = "*"
 gunicorn = "*"
 
 [dev-packages]
-pytest-django = "*"
 
 [requires]
 python_version = "3.9"
