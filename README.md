@@ -6,3 +6,5 @@ Deploy no Heroku: https://djangoaplication.herokuapp.com/
 
 
 Usando Gunicorn!
+
+Em andamento ..
